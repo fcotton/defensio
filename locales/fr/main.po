@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Defensio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-28 16:08+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pep <pep@callmepep.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: class.dc.filter.defensio.php:39
+msgid "Defensio spam filter"
+msgstr "Filtre antispam Defensio"
+
+#: class.dc.filter.defensio.php:44
+#, php-format
+msgid "Filtered by %s."
+msgstr "Filtré par %s."
+
+#: class.dc.filter.defensio.php:146
+msgid "Defensio API key:"
+msgstr "Clé API Defensio :"
+
+#: class.dc.filter.defensio.php:151
+msgid "API key verified"
+msgstr "Clé API vérifiée"
+
+#: class.dc.filter.defensio.php:153
+msgid "API key not verified"
+msgstr "Clé API non vérifiée"
+
+#: class.dc.filter.defensio.php:160
+msgid "Sign up and get your own API key"
+msgstr "Créez votre compte et obtenez votre clé API"
+
+#: class.dc.filter.defensio.php:161
+msgid "save"
+msgstr "enregistrer"
+
+#: class.dc.filter.defensio.php:169
+msgid "Defensio Statistics"
+msgstr "Statistiques Defensio"
+
+#: class.dc.filter.defensio.php:171
+msgid "Recent Accuracy"
+msgstr "Pertinence récente"
+
+#: class.dc.filter.defensio.php:172
+msgid "Spam"
+msgstr "Spam"
+
+#: class.dc.filter.defensio.php:173
+msgid "Innocent"
+msgstr "Innocent"
+
+#: class.dc.filter.defensio.php:174
+msgid "False negative"
+msgstr "Faux négatif"
+
+#: class.dc.filter.defensio.php:175
+msgid "False positive"
+msgstr "Faux positif"
+
